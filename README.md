@@ -1,2 +1,2 @@
 # Computational_math
-Damn this thing
+Repository with my computational math projects
